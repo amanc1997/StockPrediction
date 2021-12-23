@@ -1,4 +1,4 @@
-# StockPrediction
+# Stock Prediction
 Stock Prediction using multiple linear regression
 
 
